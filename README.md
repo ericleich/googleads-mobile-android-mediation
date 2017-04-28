@@ -5,7 +5,7 @@ and features refined ad formats and streamlined APIs for access to mobile ad
 networks and advertising solutions. The SDK enables mobile app developers to
 maximize their monetization in native mobile apps.
 
-This repository is broken into two sections:
+This repository has two sections:
 
 ## Mediation Example
 
